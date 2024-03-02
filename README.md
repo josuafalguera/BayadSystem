@@ -4,7 +4,8 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
 
 | Internal Release Code | Version | Date Released |
 |---|---|---|
-|[BS.010.000](#bs010000-release-notes)|v1.0.0|2024-02-06 06:40:00
+|[BS.010.000](#bs010000-release-notes)|v1.0.0|2024-02-06 06:40:00|
+|[BS.010.001](#bs010001-release-notes)|v1.0.1|2024-03-03 00:08:00|
 
 ---
 
@@ -18,4 +19,23 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
   * Finished initial repository setup
   * Finalized micro features mock-ups
 
+## BS.010.001 Release Notes
+
+* **Major Changes**
+  - Finished initial setup of design theme
+  - Adaptive theming: dark and light theme 
+  - Added image and other media assets
+  - Created custom components and reusable widgets
+  - Login form page
+
+* **Known Issues**
+  - Cannot login *yet*.
+  - Cannot signup *yet*.
+  - Google and Facebook signin integration not *yet* implemented.
+
+* **Target Next Release**
+  - Sign up page implementation
+  - Backend setup integration
+  - Landing page carousel
+    
 ---
