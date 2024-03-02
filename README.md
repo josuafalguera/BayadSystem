@@ -29,13 +29,15 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
   - Login form page
 
 * **Known Issues**
-  - Cannot login *yet*.
-  - Cannot signup *yet*.
-  - Google and Facebook signin integration not *yet* implemented.
+  - Not able to toggle between dark and light theme *yet*
+  - Not able to login *yet*
+  - Not able to sign up *yet*
+  - Google and Facebook sign-in integration not *yet* implemented
 
 * **Target Next Release**
+  - Welcome page or landing page implementation
   - Sign up page implementation
-  - Backend setup integration
-  - Landing page carousel
+  - Back-end setup integration
+  - Google and Facebook sign-in integration implementation
     
 ---
