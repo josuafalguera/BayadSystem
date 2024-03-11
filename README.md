@@ -6,6 +6,7 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
 |---|---|---|
 |[BS.010.000](#bs010000-release-notes)|v1.0.0|2024-02-06 06:40:00|
 |[BS.010.001](#bs010001-release-notes)|v1.0.1|2024-03-03 00:08:00|
+|[BS.010.002](#bs010002-release-notes)|v1.0.2|2024-03-11 11:23:00|
 
 ---
 
@@ -35,9 +36,26 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
   - Google and Facebook sign-in integration not *yet* implemented
 
 * **Target Next Release**
-  - Welcome page or landing page implementation
+  - Welcome/onboarding page implementation
   - Sign up page implementation
   - Back-end setup integration
   - Google and Facebook sign-in integration implementation
-    
+
+ ## BS.010.002 Release Notes
+
+ * **Major Changes**
+   - Finished welcome/onboarding page implementation
+   - Finished sign up page implementation
+   - Finished back-end setup
+
+ * **Known Issues**
+   - Facebook sign-in integration requires business validation to be able to use Meta's authentication API.
+   - Not able to login *yet*
+   - Not able to sign up *yet*
+  
+ * **Target Next Release**
+   - Login and sign up ability
+   - Google sign-in ability
+   - Dashboard implementation
+
 ---
