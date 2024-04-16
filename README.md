@@ -7,6 +7,7 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
 |[BS.010.000](#bs010000-release-notes)|v1.0.0|2024-02-06 06:40:00|
 |[BS.010.001](#bs010001-release-notes)|v1.0.1|2024-03-03 00:08:00|
 |[BS.010.002](#bs010002-release-notes)|v1.0.2|2024-03-11 11:23:00|
+|[BS.010.003](#bs010003-release-notes)|v1.0.3|2024-04-16 16:20:00|
 
 ---
 
@@ -57,5 +58,19 @@ Transaqtiq is an innovative mobile software solution designed to meet the unique
    - Login and sign up ability
    - Google sign-in ability
    - Dashboard implementation
+
+## BS.010.003 Release Notes
+
+* **Major Changes**
+   - Finished implementing **Products** module
+   - Finished login and sign up
+   - Dashboard partial completion
+
+ * **Known Issues**
+   - Google sign-in error, unusable at the moment
+
+ * **Target Next Release**
+   - Google sign-in fix
+   - **Inventory** and **POS** Module initial setup
 
 ---
